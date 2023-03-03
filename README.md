@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcospenalosa (Murquis)
-- 
-- 👀 I’m interested in Front-end web desing
+- 👨‍💻 I´m a software developer with Velneo
+- 👀 I'm interested in web development
 - 🌱 I’m currently learning HTML - CSS - Javascript
 - 💞️ I’m looking to collaborate on desing webs
 - 📫 How to reach me marcospenalosa@gmail.com

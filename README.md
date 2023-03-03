@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @marcospenalosa
+- 👋 Hi, I’m @marcospenalosa (Murquis)
+- 
 - 👀 I’m interested in Front-end web desing
 - 🌱 I’m currently learning HTML - CSS - Javascript
 - 💞️ I’m looking to collaborate on desing webs

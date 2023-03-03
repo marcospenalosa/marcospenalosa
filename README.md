@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcospenalosa (Murquis)
+- 👋 Hi, I’m @marcospenalosa (Murquis) from Spain
 - 👨‍💻 I´m a software developer with Velneo
 - 👀 I'm interested in web development
 - 🌱 I’m currently learning HTML - CSS - Javascript
